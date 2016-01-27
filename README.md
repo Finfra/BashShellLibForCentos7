@@ -34,5 +34,4 @@ NamJungGu, <nowage[at]gmail.com>
 
 # COPYRIGHT AND LICENSE
 
-(c) Copyright 2005-2015 by finfra.com
-
+(c) Copyright 2003-2016 by finfra.com

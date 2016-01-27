@@ -1,9 +1,14 @@
 #!/bin/bash
+#
+# Copyright (c) 2003-2016 finfra.com <nowage@gmail.com>
+#
+# Source from : https://github.com/Finfra/BashShellLibForCentos7.git
+#
 lip=$1
 if [ ${#lip} -eq 0 ];then
 	lip=101
 elif [ $lip -lt 3 ]; then
-	echo 'Can Not use this local-ip.use 3~254'	
+	echo 'Can Not use this local-ip.use 3~254'
 	exit 1
 fi
 
